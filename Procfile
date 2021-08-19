@@ -1,1 +1,1 @@
-web:gunicorn studybuddyapp-deploy:app
+web:gunicorn wsgi:app
