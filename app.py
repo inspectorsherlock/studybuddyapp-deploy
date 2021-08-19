@@ -95,7 +95,7 @@ class cognitiontheorytitle(db.Model):
         self.cog_id=cog_id
         self.cognitiontitle=cognitiontitle
 
-@app.route('/', methods=["GET", "POST"])
+@app.route('/index.html', methods=["GET", "POST"])
 def index():
     return render_template('index.html')
 
