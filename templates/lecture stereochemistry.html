@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Stereochemistry Lecture</title>
+<meta charset="UTF-8">
+<style>
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+iframe {
+    transform: translate(40%, 5%)
+}
+
+.first-form {
+    margin: 0 auto; 
+    width: 500px; 
+    padding: 1em;
+    border: 2px solid #000; 
+    border-radius: 1em;
+    transform: translate(0%, 20%)
+}
+
+ul {
+    list-style:none;
+    padding: 2;
+    margin: 4;
+    font-family: sans-serif;
+}
+
+form li + li {
+    margin-top: 1em;
+}
+
+textarea {
+    font-family: sans-serif;
+    width: 300px;
+    box-sizing: border-box;
+    border-color: #000;
+    vertical-align: top;
+    height: 5em;
+}
+
+button {
+    margin-bottom: .5em;
+    transform: translate(-205%, 350%)
+}
+
+.recommendation {
+    margin: 0 auto; 
+    width: 500px; 
+    padding: 1em;
+    border: 2px solid #000; 
+    border-radius: 1em;
+    transform: translate(0%, 250%)
+}
+
+.reco button {
+    transform: translate(100%, 250%)
+}
+
+</style>            
+</head>
+<body>
+    <h1 class="text-center">Stereochemistry Lecture</h1>
+    <iframe width="720" height="480"src="https://www.youtube.com/embed/Bw_cetheReo"></iframe>
+    <button style="text-align: center; margin: 50px;" target="_blank" onclick="document.location='https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/e/stereochemistry-questions'">Try this worksheet</button>
+    <button style="text-align: center; margin: 50px;" target="_blank" onclick="document.location='https://www.khanacademy.org/science/organic-chemistry/stereochemistry-topic'">Extra Learning Content</button>
+    <div style="text-align: center; ">
+    </div>
+    <form action="/templates/templates/lecture stereochemistry.html" method="post" class="first-form">
+        <ul>
+            <li>
+                <label for="user_id">Select your User ID</label>
+                <select name="user_id" id="user_id">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                    <option value="13">13</option>
+                    <option value="14">14</option>
+                    <option value="15">15</option>
+                    <option value="16">16</option>
+                    <option value="17">17</option>
+                    <option value="18">18</option>
+                    <option value="19">19</option>
+                    <option value="20">20</option>
+                </select>
+            </li>
+            <li>
+    <label for="classcog_id">Choose Your Cognition Style</label>
+    <select name="classcog_id" id="classcog_id">
+        <option value="1">Implicit Learning</option>
+        <option value="2">Explicit Learning</option>
+        <option value="3">Cooperative & Collaborative Learning</option>
+        <option value="4">Meaningful Learning</option>
+        <option value="5">Associated Learning</option>
+        <option value="6">Habituation & Sensitisation: Non-Associative Learning</option>
+        <option value="7">Discovery Learning</option>
+        <option value="8">Observation & Imitation Learning</option>
+        <option value="9">Emotional Learning</option>
+        <option value="10">Experiential Learning</option>
+        <option value="11">Rote Learning</option>
+        <option value="12">Receptive Learning</option>
+        <option value="13">Metacognitive Strategies</option>
+    </select>
+    </li>
+    <li>
+    <label for="classcog_rating">Rate Cognition Effectiveness For This Topic</label>
+    <select name="classcog_rating" id="classcog_rating">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+    </select>
+    </li>
+    <li>
+    <label for="classweek_no">Week Number</label>
+    <select name="classweek_no" id="classweek_no">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+    </select>
+    </li>
+    <li>
+        <label for="worksheet_percentage">Worksheet Percentage</label>
+        <select name="worksheet_percentage" class="worksheet_percentage">
+            <option value="0">0%</option>
+            <option value="10">10%</option>
+            <option value="20">20%</option>
+            <option value="30">30%</option>
+            <option value="40">40%</option>
+            <option value="50">50%</option>
+            <option value="60">60%</option>
+            <option value="70">70%</option>
+            <option value="80">80%</option>
+            <option value="90">90%</option>
+            <option value="100">100%</option>
+        </select>
+    </li>
+    <li>
+    <div style="text-align: center;">
+        <textarea placeholder="Please type your comments here." name="class_comment" id="class_comment"></textarea>
+    <button type="submit">Send Your Experience</button>
+    </li>
+    </ul>
+    </div>
+    </form>
+
+    
+
+</body>
+</html>

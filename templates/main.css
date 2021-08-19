@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    color: blue;
+}
+
+.class-wrapper {
+    background-color: lightblue;
+    width:200px;
+    padding: 25px;
+}
+
+.pclass {
+    background-color: lightblue;
+    width: 40px;
+    padding: 25px
+}

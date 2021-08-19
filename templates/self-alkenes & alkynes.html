@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Alkenes & Alkynes Lecture</title>
+<meta charset="UTF-8">
+<style>
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+iframe {
+    transform: translate(40%, 5%)
+}
+
+.first-form {
+    margin: 0 auto; 
+    width: 600px; 
+    padding: 1em;
+    border: 2px solid #000; 
+    border-radius: 1em;
+    transform: translate(0%, 20%)
+}
+
+ul {
+    list-style:none;
+    padding: 2;
+    margin: 4;
+    font-family: sans-serif;
+}
+
+form li + li {
+    margin-top: 1em;
+}
+
+textarea {
+    font-family: sans-serif;
+    width: 300px;
+    box-sizing: border-box;
+    border-color: #000;
+    vertical-align: top;
+    height: 5em;
+}
+
+button {
+    margin-bottom: .5em;
+    transform: translate(-205%, 350%)
+}
+
+.recommendation {
+    margin: 0 auto; 
+    height: 100px;
+    width: 1000px; 
+    padding: 3em;
+    border: 2px solid #000; 
+    border-radius: 1em;
+    transform: translate(0%, 120%)
+}
+
+.lt_reco_button {
+    transform: translate(175%, -80%)
+}
+
+.cog_reco_button{
+    transform: translate(-120%, -80%)
+}
+
+.study-time_button {
+    transform: translate(200%, -80%)
+}
+</style>            
+</head>
+<body>
+    <h1 class="text-center">Alkenes & Alkynes Self-Directed Study</h1>
+    <form action="/templates/templates/self-alkenes & alkynes.html" method="POST" class="first-form">
+        <ul>
+            <li>
+                <label for="user_id">Select your User ID</label>
+                <select name="user_id" id="user_id">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                    <option value="13">13</option>
+                    <option value="14">14</option>
+                    <option value="15">15</option>
+                    <option value="16">16</option>
+                    <option value="17">17</option>
+                    <option value="18">18</option>
+                    <option value="19">19</option>
+                    <option value="20">20</option>
+                </select>
+            </li>
+        <li>
+            <label for="lt_id">Choose Your Learning Style</label>
+            <select name="lt_id" class="lt_id">
+                <option value="1">(constructivist) Guided Inquiry-Based Learning</option>
+                <option value="2">(constructivist) Confirmation Inquiry-Based Learning</option>
+                <option value="3">(constructivist) Open Inquiry-Based Learning</option>
+                <option value="4">(constructivist) Structured Inquiry-Based</option>
+                <option value="5">(constructivist) Inquisitive Learning</option>
+                <option value="6">(constructivist) Self-Directed Learning</option>
+                <option value="7">(constructivist) Action Learning</option>
+                <option value="8">(constructivist) Reciprocal Learning</option>
+                <option value="9">(social constructivism) Collaborative Learning</option>
+                <option value="10">(social constructivism) Cooperative Learning</option>
+                <option value="11">(social constructivism) Situated Learning</option>
+                <option value="12">(social constructivism) Anchored Learning</option>
+                <option value="13">(social constructivism) Reciprocal Determinism</option>
+                <option value="14">(social constructivism) Behavioural Capability</option>
+                <option value="15">(social constructivism) Observational Learning</option>
+                <option value="16">(social constructivism) Reinforcements</option>
+                <option value="17">(social constructivism) Expectations</option>
+                <option value="18">(social constructivism) Self-Efficacy</option>
+                <option value="19">(social-situational) Reinforcement & Motivation Through Simulation & Gamification</option>
+                <option value="20">(social-situational) Modeling & Underlying Cognitive Processes</option>
+                <option value="21">(humanist) Montessori</option>
+                <option value="22">(humanist) Emotional Support</option>
+                <option value="23">(humanist) Open Seminars</option>
+            </select>
+        </li>
+        <li>
+            <label for="lt_rating">Rate Learning Style Effectiveness For This Topic</label>
+            <select name="lt_rating" id="lt_rating">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+            </li>
+            <li>
+    <label for="cog_id">Choose Your Cognition Style</label>
+    <select name="cog_id" id="cog_id">
+        <option value="1">Implicit Learning</option>
+        <option value="2">Explicit Learning</option>
+        <option value="3">Cooperative & Collaborative Learning</option>
+        <option value="4">Meaningful Learning</option>
+        <option value="5">Associated Learning</option>
+        <option value="6">Habituation & Sensitisation: Non-Associative Learning</option>
+        <option value="7">Discovery Learning</option>
+        <option value="8">Observation & Imitation Learning</option>
+        <option value="9">Emotional Learning</option>
+        <option value="10">Experiential Learning</option>
+        <option value="11">Rote Learning</option>
+        <option value="12">Receptive Learning</option>
+        <option value="13">Metacognitive Strategies</option>
+    </select>
+    </li>
+    <li>
+    <label for="cog_rating">Rate Cognition Effectiveness For This Topic</label>
+    <select name="cog_rating" id="cog_rating">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+    </select>
+    </li>
+    <li>
+        <label for="studytime">Study Time</label>
+        <input type="text" id="studytime" name="studytime">
+        </li>
+        <li>
+            <label for="studytime_rating">Rate Study Time Effectiveness For This Topic</label>
+            <select name="studytime_rating" id="studytime_rating">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+            </li>
+    <li>
+    <label for="week_no">Week Number</label>
+    <select name="week_no" id="week_no">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+    </select>
+    </li>
+    <li>
+    <div style="text-align: center;">
+        <textarea placeholder="Please type your comments here." name="comment" id="comment"></textarea>
+    <button type="submit">Send Your Experience</button>
+    </li>
+    </ul>
+    </div>
+    </form>
+
+
+</body>
+</html>

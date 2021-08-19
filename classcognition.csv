@@ -1,0 +1,96 @@
+﻿index,user_id,classcog_id,classcog_rating,week_no,worksheet_percentage,class_comment
+1,1,2,4,1,40,It was fun
+2,2,4,3,1,60,Great lecture video
+3,3,8,4,1,80,I enjoyed that
+4,4,11,2,1,30,This is interesting
+5,5,8,3,1,60,Anonymity is a good thing
+6,6,8,5,1,70,Well this is fun!
+7,7,8,4,1,60,Time to have some fun
+8,8,8,4,1,80,This is going well
+9,9,2,3,1,20,It's an interesting study this
+10,10,4,2,1,30,I might not perservere with this 
+11,11,4,2,1,40,Having a blast
+12,12,1,1,1,10,Enjoying this
+13,13,2,2,1,30,Wonder if my cognition is common
+14,14,8,5,1,60,I hope this works
+15,15,11,4,1,40,Wonder if I will change cognition
+16,16,8,4,1,80,This was fun
+17,17,5,2,1,40,It was fun
+18,18,4,3,1,30,Great lecture video
+19,19,11,5,1,60,I enjoyed that
+20,20,11,4,1,50,This is interesting
+21,21,11,3,1,40,Anonymity is a good thing
+22,22,8,5,1,70,Well this is fun!
+23,23,8,5,2,80,Time to have some fun
+24,24,8,4,2,70,This is going well
+25,25,2,3,2,50,It's an interesting study this
+26,26,2,4,2,60,I might not perservere with this 
+27,27,2,2,2,40,Having a blast
+28,28,2,1,2,50,Enjoying this
+29,29,7,5,2,90,Wonder if my cognition is common
+30,30,7,5,2,100,I hope this works
+31,31,11,3,2,20,Wonder if I will change cognition
+32,32,7,3,2,90,This was fun
+33,33,7,5,2,80,It was fun
+34,34,7,4,2,90,Great lecture video
+35,35,4,4,2,50,I enjoyed that
+36,36,5,3,2,70,This is interesting
+37,37,8,2,2,80,Anonymity is a good thing
+38,38,2,4,2,30,Well this is fun!
+39,39,2,5,2,60,Time to have some fun
+40,40,2,2,2,70,This is going well
+41,41,2,3,2,40,It's an interesting study this
+42,42,4,3,2,60,I might not perservere with this 
+43,43,1,2,2,70,Having a blast
+44,44,8,5,3,50,Enjoying this
+45,45,8,5,3,70,Wonder if my cognition is common
+46,46,8,5,3,60,I hope this works
+47,47,8,5,3,70,Wonder if I will change cognition
+48,48,8,5,3,80,This was fun
+49,49,8,5,3,90,It was fun
+50,50,8,5,3,60,Great lecture video
+51,51,8,5,3,80,I enjoyed that
+52,52,8,5,3,90,This is interesting
+53,53,2,4,3,30,Anonymity is a good thing
+54,54,8,4,3,80,Well this is fun!
+55,55,8,5,3,70,Time to have some fun
+56,56,8,4,3,80,This is going well
+57,57,8,5,3,80,It's an interesting study this
+58,58,8,5,3,90,I might not perservere with this 
+59,59,8,5,3,60,Having a blast
+60,60,4,5,3,40,Enjoying this
+61,61,2,5,3,30,Wonder if my cognition is common
+62,62,5,4,3,20,I hope this works
+63,63,8,5,3,80,Wonder if I will change cognition
+64,64,6,4,3,60,This was fun
+65,65,8,5,3,80,It was fun
+66,66,8,3,3,60,Great lecture video
+67,67,8,4,3,40,I enjoyed that
+68,68,8,5,3,60,This is interesting
+69,69,4,4,3,60,Anonymity is a good thing
+70,70,2,4,4,100,Well this is fun!
+71,71,4,5,4,70,Time to have some fun
+72,72,2,4,4,60,This is going well
+73,73,8,3,4,70,It's an interesting study this
+74,74,4,2,4,80,I might not perservere with this 
+75,75,10,5,4,60,Having a blast
+76,76,10,4,4,70,Enjoying this
+77,77,4,4,4,60,Wonder if my cognition is common
+78,78,2,2,4,90,I hope this works
+79,79,1,5,4,80,Wonder if I will change cognition
+80,80,4,3,4,70,This was fun
+81,81,4,1,4,60,It was fun
+82,82,4,4,4,80,Great lecture video
+83,83,4,5,4,70,I enjoyed that
+84,84,2,3,4,90,This is interesting
+85,85,4,2,4,100,Anonymity is a good thing
+86,86,5,5,4,70,Well this is fun!
+87,87,4,3,4,80,Time to have some fun
+88,88,7,4,4,80,This is going well
+89,89,7,5,4,60,It's an interesting study this
+90,90,7,2,4,70,I might not perservere with this 
+91,91,7,3,4,90,Having a blast
+92,92,7,4,4,40,Enjoying this
+93,93,7,1,4,60,Wonder if my cognition is common
+94,94,7,4,4,70,I hope this works
+95,95,7,5,4,70,Wonder if I will change cognition?

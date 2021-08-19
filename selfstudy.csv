@@ -1,0 +1,214 @@
+﻿index,user_id,lt_id,lt_rating,cog_id,cog_rating,studyduration,studyduration_rating,week_no,comment
+1,1,5,4,2,4,45,4,1,This is awesome
+2,1,1,5,11,4,60,5,1,Wonder how the before and after is
+3,1,4,5,3,5,25,3,1,Time to find out
+4,1,1,4,4,4,30,4,1,Starting Learners' Agency
+5,2,3,1,8,2,70,5,1,Undrestanding how things are 
+6,2,4,4,11,3,100,4,1,Good choice of learning styles
+7,2,1,4,8,4,35,3,1,I understand how this works
+8,2,1,5,4,1,40,4,1,This was fun
+9,2,3,4,4,2,55,5,1,Enjoyable 
+10,3,5,4,4,3,60,5,1,Wonder how these lessons turn out
+11,3,5,4,4,4,30,4,1,Wonder what I'm gonna get recommended 
+12,3,5,4,8,5,60,5,1,Tired of writing at times. 
+13,3,5,4,8,4,45,4,1,This is awesome
+14,4,12,4,8,3,45,5,1,Wonder how the before and after is
+15,4,12,5,8,3,45,5,1,Time to find out
+16,5,12,5,8,4,45,5,1,Starting Learners' Agency
+17,5,12,5,11,2,45,5,1,Undrestanding how things are 
+18,5,12,5,8,4,45,5,1,Good choice of learning styles
+19,5,12,4,5,5,60,4,1,I understand how this works
+20,4,12,4,4,3,75,5,1,This was fun
+21,5,19,5,11,1,30,4,1,Enjoyable 
+22,5,19,5,2,3,25,3,1,Wonder how these lessons turn out
+23,6,5,4,3,4,60,5,1,Wonder what I'm gonna get recommended 
+24,6,1,3,5,5,70,4,1,Tired of writing at times. 
+25,6,1,4,4,3,85,5,1,This is awesome
+26,6,12,5,3,4,30,5,1,Wonder how the before and after is
+27,7,2,4,5,2,45,5,1,Time to find out
+28,7,1,4,4,3,60,4,1,Starting Learners' Agency
+29,7,1,4,3,4,45,4,1,Undrestanding how things are 
+30,7,4,5,3,5,25,3,1,Good choice of learning styles
+31,7,1,4,4,4,30,3,1,I understand how this works
+32,8,3,1,8,2,70,2,1,This was fun
+33,8,4,4,11,3,100,3,1,Enjoyable 
+34,8,1,4,8,4,35,5,1,Wonder how these lessons turn out
+35,8,1,5,4,1,40,3,1,This is awesome
+36,9,3,4,4,2,55,4,1,Wonder how the before and after is
+37,9,5,4,4,3,60,2,1,Time to find out
+38,9,12,4,4,3,75,3,1,Starting Learners' Agency
+39,9,19,5,11,1,30,4,1,Undrestanding how things are 
+40,10,19,5,2,3,25,2,1,Good choice of learning styles
+41,10,5,4,3,4,60,3,1,I understand how this works
+42,10,1,3,5,5,70,4,1,This was fun
+43,11,1,4,4,3,85,4,1,Enjoyable 
+44,11,12,5,3,4,30,3,1,Wonder how these lessons turn out
+45,12,2,4,5,2,45,5,1,This is awesome
+46,12,1,4,4,3,60,4,1,Wonder how the before and after is
+47,12,1,4,3,4,45,5,1,Time to find out
+48,13,12,4,4,3,75,4,1,Starting Learners' Agency
+49,14,19,5,11,1,30,3,1,This is awesome
+50,15,19,5,2,3,25,5,1,Wonder how the before and after is
+51,1,2,5,7,5,100,5,2,Time to find out
+52,1,2,5,7,4,120,4,2,Starting Learners' Agency
+53,1,12,4,10,5,120,5,2,Undrestanding how things are 
+54,1,2,5,7,5,100,4,2,Good choice of learning styles
+55,2,2,4,11,3,60,4,2,I understand how this works
+56,2,12,4,7,5,75,4,2,This was fun
+57,2,2,4,8,4,80,4,2,Enjoyable 
+58,2,15,5,8,3,45,3,2,Wonder how these lessons turn out
+59,2,2,4,7,3,70,4,2,Wonder what I'm gonna get recommended 
+60,2,12,5,10,5,100,5,2,Tired of writing at times. 
+61,2,2,5,11,4,120,4,2,This is awesome
+62,2,2,4,7,5,120,5,2,Wonder how the before and after is
+63,3,2,5,11,5,100,4,2,Time to find out
+64,3,15,4,7,3,60,4,2,This is awesome
+65,3,2,4,7,5,75,4,2,Wonder how the before and after is
+66,3,2,4,8,4,80,4,2,Time to find out
+67,4,2,5,8,3,45,3,2,Starting Learners' Agency
+68,4,2,4,7,3,70,4,2,Undrestanding how things are 
+69,4,12,5,10,5,100,5,2,Good choice of learning styles
+70,5,2,5,7,4,120,4,2,I understand how this works
+71,5,2,4,10,5,120,5,2,This was fun
+72,5,2,5,7,5,100,4,2,Enjoyable 
+73,6,2,4,11,3,60,4,2,Wonder how these lessons turn out
+74,6,12,4,7,5,75,4,2,Wonder what I'm gonna get recommended 
+75,6,2,4,7,4,80,4,2,Tired of writing at times. 
+76,6,15,5,8,3,45,3,2,This is awesome
+77,7,2,4,11,3,70,4,2,Wonder how the before and after is
+78,7,12,5,7,5,100,5,2,Time to find out
+79,7,2,5,11,4,120,4,2,Starting Learners' Agency
+80,7,2,4,10,5,120,5,2,Undrestanding how things are 
+81,8,2,5,11,5,100,4,2,Good choice of learning styles
+82,8,15,4,7,3,60,4,2,I understand how this works
+83,9,2,4,10,5,75,4,2,This was fun
+84,9,2,4,8,4,80,4,2,Enjoyable 
+85,10,2,5,8,3,45,3,2,Wonder how these lessons turn out
+86,10,15,4,11,3,70,4,2,This is awesome
+87,11,12,5,10,5,100,5,2,Wonder how the before and after is
+88,12,2,5,11,4,120,4,2,Time to find out
+89,13,12,4,10,5,120,5,2,Starting Learners' Agency
+90,13,2,5,7,5,100,4,2,Undrestanding how things are 
+91,14,15,4,11,3,60,4,2,Good choice of learning styles
+92,14,12,4,10,5,75,4,2,I understand how this works
+93,14,2,4,7,4,80,4,2,This was fun
+94,15,15,5,8,3,45,3,2,Enjoyable 
+95,15,15,4,11,3,70,4,2,Wonder how these lessons turn out
+96,15,12,5,10,5,100,5,2,This is awesome
+97,15,2,5,7,4,120,4,2,Wonder how the before and after is
+98,15,12,4,10,5,120,5,2,Time to find out
+99,15,2,5,11,5,100,4,2,Starting Learners' Agency
+100,15,15,4,11,3,60,4,2,This is awesome
+101,1,12,5,10,5,100,5,3,Wonder how the before and after is
+102,1,2,5,7,4,120,4,3,Time to find out
+103,1,12,4,10,5,120,5,3,Starting Learners' Agency
+104,1,2,5,11,5,100,4,3,Undrestanding how things are 
+105,2,15,4,7,3,60,4,3,Good choice of learning styles
+106,2,12,4,10,5,75,4,3,I understand how this works
+107,2,2,4,8,4,80,4,3,This was fun
+108,3,15,5,8,3,45,3,3,Enjoyable 
+109,3,15,4,11,3,70,4,3,Wonder how these lessons turn out
+110,3,12,5,3,5,100,5,3,Wonder what I'm gonna get recommended 
+111,3,2,5,11,4,120,4,3,Tired of writing at times. 
+112,4,12,4,10,5,120,5,3,This is awesome
+113,4,2,5,11,5,100,4,3,Wonder how the before and after is
+114,4,15,4,7,3,60,4,3,Time to find out
+115,4,12,4,10,5,75,4,3,This is awesome
+116,5,2,4,8,4,80,4,3,Wonder how the before and after is
+117,5,15,5,8,3,45,3,3,Time to find out
+118,5,15,4,7,3,70,4,3,Starting Learners' Agency
+119,6,12,5,10,5,100,5,3,Undrestanding how things are 
+120,6,2,5,11,4,120,4,3,Good choice of learning styles
+121,6,12,4,10,5,120,5,3,I understand how this works
+122,7,2,5,11,5,100,4,3,This was fun
+123,7,15,4,7,3,60,4,3,Enjoyable 
+124,7,12,4,10,5,75,4,3,Wonder how these lessons turn out
+125,8,2,4,8,4,80,4,3,Wonder what I'm gonna get recommended 
+126,8,15,5,8,3,45,3,3,Tired of writing at times. 
+127,8,15,4,11,3,70,4,3,This is awesome
+128,9,12,5,10,5,100,5,3,Wonder how the before and after is
+129,10,2,5,11,4,120,4,3,Time to find out
+130,11,12,4,10,5,120,5,3,Starting Learners' Agency
+131,11,2,5,11,5,100,4,3,Undrestanding how things are 
+132,11,15,4,11,3,60,4,3,Good choice of learning styles
+133,11,12,4,10,5,75,4,3,I understand how this works
+134,12,2,4,8,4,80,4,3,This was fun
+135,12,15,5,8,3,45,3,3,Enjoyable 
+136,12,15,4,11,3,70,4,3,Wonder how these lessons turn out
+137,12,12,5,10,5,100,5,3,This is awesome
+138,12,2,5,11,4,120,4,3,Wonder how the before and after is
+139,12,12,4,10,5,120,5,3,Time to find out
+140,13,2,5,11,5,100,4,3,Starting Learners' Agency
+141,13,15,4,11,3,60,4,3,Undrestanding how things are 
+142,13,12,4,10,5,75,4,3,Good choice of learning styles
+143,14,2,4,8,4,80,4,3,I understand how this works
+144,14,15,5,8,3,45,3,3,This was fun
+145,15,15,4,11,3,70,4,3,Enjoyable 
+146,15,12,5,10,5,100,5,3,Wonder how these lessons turn out
+147,15,2,5,11,4,120,4,3,This is awesome
+148,15,12,4,10,5,120,5,3,Wonder how the before and after is
+149,15,2,5,11,5,100,4,3,Time to find out
+150,15,15,4,11,3,60,4,3,Starting Learners' Agency
+151,1,1,5,2,2,30,4,4,This is awesome
+152,1,2,4,11,4,45,5,4,Wonder how the before and after is
+153,2,5,3,3,3,60,5,4,Time to find out
+154,2,8,4,4,3,45,4,4,Starting Learners' Agency
+155,2,12,4,8,5,75,5,4,Undrestanding how things are 
+156,3,15,3,11,4,30,4,4,Good choice of learning styles
+157,3,19,4,8,5,25,5,4,I understand how this works
+158,3,18,3,4,5,100,5,4,This was fun
+159,3,8,3,4,3,120,5,4,Enjoyable 
+160,4,15,5,4,5,120,5,4,Wonder how these lessons turn out
+161,4,12,5,11,5,100,5,4,Wonder what I'm gonna get recommended 
+162,4,18,4,10,4,60,4,4,Tired of writing at times. 
+163,4,1,5,11,5,75,5,4,This is awesome
+164,5,3,4,10,5,80,4,4,Wonder how the before and after is
+165,5,2,4,11,3,45,3,4,Time to find out
+166,5,19,4,11,5,70,5,4,This is awesome
+167,5,12,5,10,4,100,5,4,Wonder how the before and after is
+168,5,8,4,8,3,120,4,4,Time to find out
+169,5,5,5,8,3,80,5,4,Starting Learners' Agency
+170,6,5,5,11,1,45,4,4,Undrestanding how things are 
+171,6,8,4,10,3,70,4,4,Good choice of learning styles
+172,6,8,5,7,5,100,4,4,I understand how this works
+173,6,8,4,8,4,120,4,4,This was fun
+174,6,8,4,8,5,120,3,4,Enjoyable 
+175,7,2,4,7,5,100,4,4,Wonder how these lessons turn out
+176,7,1,5,10,3,60,5,4,Wonder what I'm gonna get recommended 
+177,7,2,4,11,5,100,5,4,Tired of writing at times. 
+178,7,2,5,7,4,120,5,4,This is awesome
+179,7,2,5,11,3,120,5,4,Wonder how the before and after is
+180,8,2,4,8,3,100,5,4,Time to find out
+181,8,2,5,8,5,60,4,4,Starting Learners' Agency
+182,8,2,4,7,4,75,5,4,Undrestanding how things are 
+183,9,15,4,10,5,80,4,4,Good choice of learning styles
+184,9,12,4,11,5,45,4,4,I understand how this works
+185,9,18,5,10,1,70,4,4,This was fun
+186,9,1,4,8,3,100,3,4,Enjoyable 
+187,10,3,5,11,5,120,4,4,Wonder how these lessons turn out
+188,10,2,5,7,4,120,5,4,This is awesome
+189,10,19,4,11,5,75,4,4,Wonder how the before and after is
+190,11,12,5,10,5,80,5,4,Time to find out
+191,11,8,4,11,3,45,4,4,Starting Learners' Agency
+192,11,5,5,7,5,70,4,4,Undrestanding how things are 
+193,12,5,4,10,4,100,4,4,Good choice of learning styles
+194,13,8,3,8,3,120,4,4,I understand how this works
+195,13,8,4,8,3,120,3,4,This was fun
+196,13,8,4,11,5,100,4,4,Enjoyable 
+197,13,8,3,10,4,60,4,4,Wonder how these lessons turn out
+198,14,2,4,11,5,75,4,4,This is awesome
+199,14,1,3,10,5,80,4,4,Wonder how the before and after is
+200,14,2,3,7,3,45,3,4,Time to find out
+201,14,2,5,11,4,80,4,4,Starting Learners' Agency
+202,14,2,5,10,3,45,5,4,This is awesome
+203,14,2,4,7,3,70,4,4,Wonder how the before and after is
+204,14,2,5,8,5,100,5,4,Time to find out
+205,14,2,4,11,4,120,4,4,Starting Learners' Agency
+206,15,15,4,7,5,80,4,4,Undrestanding how things are 
+207,15,12,4,10,5,45,4,4,Good choice of learning styles
+208,15,18,5,8,3,70,5,4,I understand how this works
+209,15,1,4,8,5,100,5,4,This was fun
+210,15,3,5,11,4,120,4,4,Enjoyable 
+211,15,2,5,10,3,120,5,4,Wonder how these lessons turn out
+212,15,19,4,11,3,100,4,4,Wonder what I'm gonna get recommended 
+213,15,12,5,10,5,60,5,4,Tired of writing at times. 
