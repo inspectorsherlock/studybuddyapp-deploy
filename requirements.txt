@@ -8,3 +8,4 @@ Flask-User
 Pytest
 Pytest-cov
 Babel
+gunicorn==19.9.0
