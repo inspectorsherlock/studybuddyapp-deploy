@@ -24,12 +24,14 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 import time
 import datetime
+from flask.ext.heroku import Heroku
 
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=False
 app.config['SQLALCHEMY_DATABASE_URI']='postgresql://postgres:Smartmind1920@localhost/flasksql'
 app.debug=True
+heroku= Heroku(app)
 db = SQLAlchemy(app)
 #spark = SparkSession.builder.master("local").appName("ALS Reco").getOrCreate()
 #metadata = MetaData()
