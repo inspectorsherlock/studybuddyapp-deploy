@@ -1,1 +1,1 @@
-web: guinicorn 
+web:gunicorn 
